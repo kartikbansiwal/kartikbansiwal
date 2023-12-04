@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/fvyD7](https://shorturl.at/fvyD7)
 
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact **I have the best girlfriend ever.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
