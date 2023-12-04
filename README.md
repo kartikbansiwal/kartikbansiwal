@@ -1,4 +1,4 @@
-![MasterHead](https://storage.googleapis.com/pai-images/af855c2ab11f4301bb83c4ae23ba5abe.jpeg)
+![MasterHead](https://storage.googleapis.com/pai-images/b3c0e27d38264864bd2e5894c2fdc306.jpeg)
 <h1 align="center">Hi 👋, I'm Kartik Bansiwal</h1>
 <h3 align="center">Electrical Engineering Undergrad @ IIT Delhi</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
