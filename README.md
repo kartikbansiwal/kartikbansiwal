@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Research and Projects**
 
 - 💬 Ask me about **Data Science, Programming**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/fvyD7](https://shorturl.at/fvyD7)
 
-- ⚡ Fun fact **I love cats.**
+- ⚡ Fun fact **I love cats (also dogs).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
