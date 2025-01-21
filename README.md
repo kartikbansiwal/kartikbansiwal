@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **iitd.kartikbansiwal@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/fvyD7](https://shorturl.at/fvyD7)
+- 📄 Know about my experiences https://drive.google.com/file/d/1t6k6SjkcSzG7cuUqC2rNyFIWgA6A4aTW/view?usp=sharing
 
 - ⚡ Fun fact **I love cats (also dogs).**
 
